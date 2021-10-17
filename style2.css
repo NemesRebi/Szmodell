@@ -16,7 +16,7 @@ body{
     background: white;
 }
 .header{
-    background: url('../images/logo.jpg');
+    background: url('images/logo.jpg');
     height: 200px;
     width: 900px;    
 }
